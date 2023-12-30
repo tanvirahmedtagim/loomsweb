@@ -1,0 +1,2 @@
+[19-Dec-2023 08:47:40 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\FrontendController::designCategory() in /home/loomsfas/repo/looms-fashion-laravel/app/Http/Controllers/FrontendController.php on line 178
+[19-Dec-2023 08:48:26 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\FrontendController::designCategory() in /home/loomsfas/repo/looms-fashion-laravel/app/Http/Controllers/FrontendController.php on line 178
